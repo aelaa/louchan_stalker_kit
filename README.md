@@ -9,3 +9,5 @@ This repo contains:
 * twitter_feed - once in a 20 seconds check her twitter for the last tweet
 (sure she cannot type faster). It saves even deleted tweets.
 Soon it will tag deleted tweets and save in some readable and searchable format.
+
+* https://github.com/aelaa/vk_status - checking for Vkontakte SNS status
